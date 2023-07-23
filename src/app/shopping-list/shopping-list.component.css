@@ -1,0 +1,27 @@
+
+.list-group-item {
+    background-color: #212529;
+    border-color: #343a40;
+    color: #fff;
+  }
+  
+  .list-group-item:hover {
+    background-color: #343a40;
+    color: aliceblue;
+  }
+  
+  
+  .badge {
+    background-color: #6c757d;
+    color: #fff;
+    font-size: 0.8em;
+  }
+  
+  .badge.bg-secondary {
+    background-color: #D9534F;
+  }
+  
+
+  .bg-purple {
+    background-color: #8b5fbf;
+  }

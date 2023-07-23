@@ -1,0 +1,12 @@
+
+input[type="text"],
+input[type="number"] {
+    color: #fff;
+    background-color: #444;
+    border-color: #666;
+}
+
+
+.btn{
+    margin-right: 10px;
+}

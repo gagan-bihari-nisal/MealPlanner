@@ -1,0 +1,33 @@
+.container {
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+}
+
+.form-group .input-group-addon,
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+    color: #fff;
+    background-color: #444;
+    border-color: #666;
+}
+
+.btn{
+    border-color: aliceblue;
+}
+
+
+.btn-login {
+    background-color: #333;
+    border-color: white;
+    color: white;
+}
+
+.btn-login:hover {
+    background-color: white;
+    color: black;
+}
+
+
+

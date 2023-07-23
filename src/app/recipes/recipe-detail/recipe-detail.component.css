@@ -1,0 +1,51 @@
+.btn-primary {
+    background-color: #8a2be2;
+    border-color: #8a2be2;
+  }
+  
+  .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+    background-color: #6b1d9e;
+    border-color: #6b1d9e;
+  }
+
+  .dropdown-menu{
+    background-color: #343A40;
+    
+  }
+  .dropdown-menu>li>a{
+    color: aliceblue;
+  }
+  .dropdown-menu>li>a:hover{
+    color: #000;
+  }
+
+  .list-group-item {
+    background-color: #212529;
+    border-color: #343a40;
+    color: #fff;
+  }
+  
+  .list-group-item:hover {
+    background-color: #343a40;
+  }
+  
+  .list-group-item.active,
+  .list-group-item.active:hover {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .badge {
+    background-color: #6c757d;
+    color: #fff;
+    font-size: 0.8em;
+  }
+  
+  .badge.bg-secondary {
+    background-color: #D9534F;
+  }
+  
+
+  .bg-purple {
+    background-color: #8b5fbf;
+  }
